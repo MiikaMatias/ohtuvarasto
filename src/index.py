@@ -13,6 +13,7 @@ def main():
     print(f"saldo = {olutta.saldo}")
     print(f"tilavuus = {olutta.tilavuus}")
     print(f"paljonko_mahtuu = {olutta.paljonko_mahtuu()}")
+    print("--")
 
     print("Mehu setterit:")
     print("Lisätään 50.7")
