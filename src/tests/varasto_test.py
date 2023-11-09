@@ -4,6 +4,7 @@ module doctstring
 
 import unittest
 from varasto import Varasto
+# pylint: disable=missing-function-docstring non-ascii-name
 
 class TestVarasto(unittest.TestCase):
     """
